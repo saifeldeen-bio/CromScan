@@ -1,7 +1,7 @@
 # CromScan
 
 **CromScan** is a lightweight workflow performance profiling and visualization tool for **Cromwell WDL** pipelines running on **SLURM** clusters. It parses Cromwell execution logs together with SLURM accounting records to generate task-level performance metrics and publication-quality visualizations, helping users identify resource bottlenecks and optimize workflow execution.
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21042657.svg)](https://doi.org/10.5281/zenodo.21042657)
 ---
 
 ## Features
